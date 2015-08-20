@@ -41,4 +41,5 @@
 
     There’s a very simple way to state this difference to sum it all up. Nerds obsess over things that they can make money on and are usually anti-social, while geeks obsess over more trivial things that they can’t really make money on but are much more social. And dorks are just dorks. Very socially awkward and not necessarily intelligent at all. So please don’t confuse the intelligent nerds and geeks with dorks. Geeks and nerds are proud to be what they are.
 
-
+## Zack Hall
+- GitHub             : Hallbomb   
