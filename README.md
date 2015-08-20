@@ -1,6 +1,6 @@
 # CPT-163-27 Course Info
 
-## Course Schedule
+## Schedule
 <table width="844" cellpadding="0" cellspacing="0">
 	<colgroup><col width="272">
 	<col width="570">
