@@ -1,5 +1,8 @@
 # CPT-163-27 Course Info
 
+## Documents
+[Syllabus](https://github.com/WCCCEDU/CPT-163-27-F2015-Course-Info/blob/master/cpt_163_27_syllabus.pdf)
+
 ## Schedule
 <table width="844" cellpadding="0" cellspacing="0">
 	<colgroup><col width="272">
