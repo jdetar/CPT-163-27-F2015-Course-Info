@@ -1,5 +1,8 @@
 # CPT-163-27 Course Info
 
+## Communication
+[Gitter Chat](https://gitter.im/WCCCEDU?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+
 ## Documents
 [Syllabus](https://github.com/WCCCEDU/CPT-163-27-F2015-Course-Info/blob/master/cpt_163_27_syllabus.pdf)
 
