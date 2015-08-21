@@ -1,4 +1,15 @@
 #Bio Responses
+## Steven Plas
+- GitHub             : stevenPlas
+- Fish               : Pufferfish
+- Computer Scientist : John Carmack
+- Adventure Time     : -
+- Geek vs. Nerd      : I never really thought about the difference beetween geeks, and nerds, because to me, they are close to the same thing. But if i was guessing, i would say that Geeks are more allong the lines of people like us, say programmers, or extreamly computer literate people. Whereas nerds are more like people that just hand out and play MTG, or D&D.
+
+    But i personally think that everyone pretty much became a nerd the second that we all started carrying around a mini computer in our pocket all day long, that most people cant take their eyes off for more than 10 seconds.
+
+    But in the end, it don't matter if you're a geek, or a nerd, because one way or another, you're an awesome person, and most likely not boring in the slightest.
+
 ## Sharon Tinkey
 - GitHub             : srtinkey
 - Fish               : swordfish / puffer fish
