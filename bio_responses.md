@@ -1,4 +1,39 @@
 #Bio Responses
+## Dylan Tkach
+- GitHub             : DTkach
+- Fish               : Carcharodon megalodon
+- Computer Scientist : Gabe Newell
+- Adventure Time     : Jake the Dog
+- Geek vs. Nerd      :  I think there is a distinct difference between the word "Geek" and the word "Nerd." A geek, in the past at least, used to refer to someone who was enthusiastic (or in some cases, obsessed) about something. Like a "true fan," as opposed to your average, everyday fan. A Trekkie could be considered a type of this form of "geek."
+
+    In recent times, however, the word seems to have gained a new meaning. Most of the time, when people refer to themselves as a "geek," it's a sort of tongue-in-cheek way of saying they may or may not like things that could qualify under the other definition of geek. In other words, to true "geeks" they wouldn't even qualify to use the word, but it has nonetheless been used widely in our culture. Anyone with glasses seems to find the word fitting for themselves, regardless of their interests.
+    
+    As for "nerd," I think it refers more to the nature of other interests, not pertaining to movies, books, and so forth. A "nerdy" interest could be something like math, heavy science, astronomy, that stuff. Programming could be considered a "nerdy" interests by some, though in my particular opinion it doesn't really qualify. With the widespread use of technology, including in entertainment in the form of video games, it seems odd to me to consider programming "nerdy."
+
+## Seth Frosch
+- GitHub             : froschs
+- Fish               : Tuna
+- Computer Scientist : Alan Turing
+- Adventure Time     : -
+- Geek vs. Nerd      : People generally use the terms "Geek" and "Nerd" interchangeably to describe a person who may be a little socially awkward or too intelligent for their own good.  These people don't know that there is a difference between the two terms, and that the person they use that term on doesn't take it as an insult unless they have used the wrong one.
+
+    A person who can be labelled a "geek" is someone who is rabidly obsessed by every detail of a certain subject that is usually not considered mainstream.  For example, someone who knows the main characters in the cantina scene in Star Wars: A New Hope could be described as a Star Wars fan, however, someone who can identify even the background characters in that scene by name and back-story could be described as a Star Wars geek.
+
+    A person who can be labelled a "nerd" is someone who generally strives to understand and educate themselves about things that are not common knowledge.  For example, someone who has to use Microsoft Excel for their job may learn how to do the necessary functions to create the desired spreadsheet, however, a nerd would research all of the functions and formulas to create a spreadsheet that is far more efficient.
+
+    Now that "geeks" and "nerds" have been defined, and examples have been given as to how they are different than "normal" people, I will explain how they differ from each other.  Geeks usually have certain areas of expertise, whereas nerds try to understand the entire field.  A nerd might appreciate both Star Wars and Star Trek for what they have brought to the science fiction genre, but a geek will choose one to adore while despising the other.  While a nerd will try to understand the same subject as a geek, a nerd will never live and breathe that subject the same as a geek does.  There may be some differences between the two, and they may argue there is more, the truth also is that every geek is part nerd, and every nerd is part geek.
+
+## Calvin McCoy
+- GitHub             : mcc6027
+- Fish               : Angler Fish
+- Computer Scientist : Bill Gates / James Gosling
+- Adventure Time     : Peppermint Butler / Jake the Dog
+- Geek vs. Nerd      : The difference between a geek and a nerd may vary from person to person. A nerd in my opinion is someone who is extremely interested in something. It can be anything, I consider myself a nerd in more than one catagory. I love comic books/superheroes. My favorite comic character is Black Adam from the DC Universe. I also consider myself a music nerd.  I love all kinds of music. My favorite singers/artists are Justin Timberlake, Amy Winehouse, Drake, Sammy Johnson, and Otis Redding to name a few. I also aspire to be a singer/musician someday. I was the lead singer of a blues band for a while and I loved it. I also consider myself a fashion nerd. You'll learn from seeing me in class that I take my appearance very seriously. Many people think that men who take fashion seriously are metro, or gay and I think both of those are terrible stereotypes. My saying is "You look good, you feel good. You feel good, you do good." A nerd is basically someone who takes their interests and incorporates them into their life in a way that shows them off as a person. 
+
+    A geek on the other hand is someone who people consider a "loser." They're very unkempt, and messy. A perfect depiction of a geek to me is the character Wendell from the television series "Key & Peele." A geek is very impersonal, they lack the necessary people skills to adapt in public settings. They're very intelligent to the point it makes others uncomfortable. They use their knowledge to make others feel inferior to them.
+
+    While many people consider geeks, and nerds to be one in the same. I believe that a nerd is the better of the two. In conclusion, I believe a nerd is someone who uses their interests as a way to meet others like them. While a geek is someone who uses them to set themselves apart.
+
 ## Steven Plas
 - GitHub             : stevenPlas
 - Fish               : Pufferfish
