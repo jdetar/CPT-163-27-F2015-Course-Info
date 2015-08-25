@@ -154,4 +154,30 @@
     There’s a very simple way to state this difference to sum it all up. Nerds obsess over things that they can make money on and are usually anti-social, while geeks obsess over more trivial things that they can’t really make money on but are much more social. And dorks are just dorks. Very socially awkward and not necessarily intelligent at all. So please don’t confuse the intelligent nerds and geeks with dorks. Geeks and nerds are proud to be what they are.
 
 ## Zack Hall
-- GitHub             : Hallbomb   
+- GitHub             : Hallbomb
+
+## Curtis Kunkle
+- GitHub             : kavicm
+- Fish               : Jaws
+- Computer Scientist : Brendan Eich
+- Adventure Time     : -
+- Geek vs. Nerd      : In my opinion, the difference between geeks and nerds lies in the functionality between the two.  Geeks and nerds are both types of people that have an almost obsessive nature.  Geeks obsess over something that is useful, usually that the average person does not fully understand.  Nerds obsess over things that are pretty much useless in everyday life, but cool nonetheless.  There is usually a degree of judgement passed onto geeks and nerds by people that don't understand their obsessions.
+
+    Computer scientists, for example would fall under the category of geeks.  Computer scientists know the innerworkings of computers forwards and backwards.  They obsess with understanding how computers work and how to manipulate them.  Obviously, this is useful knowledge, but people are still inclined to pass judgement on computer scientists because they do share the obsession.  However, computer scientists are certainly not the only types of geeks.  Archaeologists can be considered geeks. Mathmeticians can be geeks. Even auto-mechanics can be geeks if they have an overly sufficient knowledge of engineering and physics related to automobiles. I guess the best way to identify a geek is to ask yourself, "Can this person's weird obsession be a career?".
+
+    Nerds, on the other hand, are obsessed with things that are basically useless.  People that do not fall into the categories of "geeks" or "nerds" generally do not understand the obsessions of nerds.  Examples of nerd obsessions are as follows:
+
+    - Dungeons and Dragons
+    - Star Wars
+    - World of Warcraft
+    - Minecraft
+    - Star Trek
+    - Magic The Gathering
+    - Pokemon
+    - Final Fantasy
+    - Any comic book series
+    - Any anime
+
+    As you can see, the theme among all of these nerdy activities is that none of them are actually useful.  Playing DnD and following it up with some Minecraft is not going to get you anywhere in life.
+
+    This concludes the difference between geeks and nerds.  I am both of these things.
