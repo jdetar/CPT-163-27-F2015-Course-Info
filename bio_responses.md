@@ -1,10 +1,76 @@
 #Bio Responses
+## Marnee Kavic
+- GitHub             : kavicm
+- Fish               : Salmon
+- Computer Scientist : Grace Hopper
+- Adventure Time     : Marceline the Vampire Queen
+- Geek vs. Nerd      : Let's explore this topic by comparing two iconic TV characters that epitomize each of these dynamic groups, Lenard and Sheldon from the Big Bang Theory.  Lenard will be our geek, and Sheldon our nerd.  This comparison will show that geeks tend to be more social the nerds.  
+
+    Nerds have a hard time connecting with people who are not also nerds.  Lenard on the Big Bang theory has a varied group of friends.  Sheldon is part of this group, but struggles to connect with non-nerds.  An example of this is Sheldon's constant degradation of Howard for his lack of a PhD.  Sheldon is not able to fully connect with anyone that he does not feel shares his mental capacity (which is just about everyone besides Stephen Hawking and George Lucas.)  Also, Sheldon has only dated Amy Farrah Fowler, a fellow nerd, while Lenard has dated a wide variety of women, most notably Penny who is neither a geek nor a nerd.  
+
+    In conclusion, geeks are more social than nerds because they are able to connect with other geeks, nerds and the occasional person who does not fall into either category, while nerds have trouble connecting with anyone who does not fall under the nerd categorization.
+
+    (Hope you are familiar with The Big Bang Theory.) 
+
+## Samantha Shurie
+- GitHub             : Arevyn24
+
+## Adam King
+- GitHub             : Kingera
+- Fish               : Tuna
+- Computer Scientist : Bill Gates
+- Adventure Time     : Jake
+- Geek vs. Nerd      : The definition of a geek is a person who engages in or discusses computer-related tasks obsessively or with great attention to technical detail. I myself define a geek as a person the finds technology interesting and makes technology part of their everyday life whether that be part of their job or just a hobby.
+
+    The definition for a nerd is an intelligent but single-minded person obsessed with a nonsocial hobby or pursuit. Where I define it as a person that finds the pursuit of information their hobby. They may be less sociable but many come together in groups as friends.
+
+    The deference between the two can be a real gray area. A nerd likes information and a computer can be a very useful tool to gather information and to be able to use a computer to its fullest potential a “nerd” may want to become very familiar with the technology. A “geek” can cross over into the other side of things as well for to be able to keep your technology up to date you will want to learn as much information from many different sources and topics. The extremes of the two aren’t as prevalent as they used to be for the “geek” and the “nerd” are becoming as one group.
+
+## Katrina Siffrinn
+- GitHub             : Katsiff
+- Fish               : Haddock
+- Computer Scientist : Anne Condon and Monica Lam
+- Adventure Time     : Jake the Dog
+- Geek vs. Nerd      : Are you a "Geek" or a "Nerd"? The term "geek" is found more acceptable than "nerd" in some circles, while in other circles you will find quite the opposite. A nerd may not want to be called a geek, but a geek may not want to be referred to as a nerd either.There are academic, social and lifestyle differences between geeks and nerds that we will explore below.
+
+    A geek is someone who is passionate about a particular subject and has become an expert in that field. A geek is usually more outgoing with better mainstream social skills than a nerd but can also come across as weird to others who do not share their passions. Geeks are life smart. They come with experience and are often self taught. Geeks tend to dress according to their field of expertise, often in sneakers and jeans. Geeks are more laid back with a different type of confidence than a nerd. Geeks tend to be more creative and fun in life and their choice of career.
+
+    A nerd is usually very studious in academics, they are more book smart than life smart.  Nerds tend to gather knowledge on many topics. They are technical in nature, enjoying complex issues and strategizing.  Nerds are often quiet, reserved and introverted. They like a sense of order and tend to be more conservative with everything they do.
+
+    So, are you a geek or a nerd?
+
+## Gary A. Newsome
+- GitHub             : garyanewsome
+- Fish               : Orange Roughy / Tangs
+- Computer Scientist : Linus Torvalds
+- Adventure Time     : Marceline
+- Geek vs. Nerd      : Graphic courtesy of: http://www.makeuseof.com/tag/10-websites-cool-computer-geeks-reside/
+
+    I think the above graphic is a good starting point for the topic of geek versus nerd. While geeks and nerds may share a similar scholarly obsession the social ineptitude is where the main difference resides. I personally have always viewed the two on an intellectual par. While nerds on the one hand may have the slight advantage in the knowledge department, they lack the social skills to properly apply their knowledge. Sadly leaving them perhaps the most knowledgeable and tech savvy people you will never know. Geeks on the other hand have the knowledge and the ability to apply their knowledge in a social environment. Thus when I think of people who teach computers (no offense), or run IT departments, or even myself I have always thought geek. As we are out and about in the world talking, interacting, and applying our knowledge.
+ 
+    In fact, with technology ever advancing and people carrying what is basically a personal computer in their pockets (smart phones) it has almost become chic to be geek. Everyone, wants to do social media, check their calendars, or check their email, and everyone wants the newest “cool” apps. So it seems that technology has afforded everyone the chance to be a little geeky, and try to one up each other, be it with cool new apps, or tricks, or even just having the latest greatest smart phone model.
+ 
+    Now while doing research, (yes I did research) it seems the term geek has been completely transformed into a slang term for the obsessed. Terms such as sports geek, car geek, or cooking geek are now regularly used to describe someone who is obsessed and knowledgeable in a particular field. Whether that field is tech savvy or not, and even regardless of whether that person would be considered intelligent outside of that particular field. Hard to imagine a geek, having little knowledge on tech subjects, but say a car geek, may honestly only be knowledgably about cars. Make, models, repairing, restoring, etc. They may or may not even be able to operate a computer or smart phone, yet they are the new geek. Now, being a non-traditional student (politically correct for 39 year old student) makes me of a slightly older age, and to think of the words sports and geek being used together makes me realize the term geek has certainly evolved since I was originally in school.
+ 
+    Now the more satirical end of the geek versus nerd debate was found via a google image search. It appears the new typical geek, is now portrayed as a knowledgeable, but also an all about me kind of person. Attempting to show off what they know and the new gadgets they may have. Almost a technological narcissist if you will. Look at me, look at me, while they pull out the newest mini tablet from their designer back pack pocket. All while nerds are still portrayed as the socially inept yet technologically over knowledgeable, just as we remember them. So while nerds remain nerds, geeks have become a moving target evolving over time like a toddler learning to walk.
+
+## Daniel Payne
+- GitHub             : Payneda
+- Fish               : Clown fish
+- Computer Scientist : -
+- Adventure Time     : Ice King (snow/winter king)
+- Geek vs. Nerd      : I would have to say that a Geek is someone who knows a lot about technology and gets excited about it. They know everything about what’s out there from Computers to Phones. They live breathe tech, gadgets, oddly things. I consider myself to be a Geek because I love new techy stuff like Smart phones and Gaming computers.
+
+    I would say a nerd is someone that knows how technology works. From ram to processors. They make it their business or mission in life to improve and speed up technology. A nerd is who I aspire to be someday. I want to understand how the things I play with work together and how I could improve them.
+
+    This is my understanding of what a Geek is and what a Nerd is and what the main difference between the two. I hope one day I can become a nerd instead of a geek and create something new for my geek brethren.
+
 ## Dylan Tkach
 - GitHub             : DTkach
 - Fish               : Carcharodon megalodon
 - Computer Scientist : Gabe Newell
 - Adventure Time     : Jake the Dog
-- Geek vs. Nerd      :  I think there is a distinct difference between the word "Geek" and the word "Nerd." A geek, in the past at least, used to refer to someone who was enthusiastic (or in some cases, obsessed) about something. Like a "true fan," as opposed to your average, everyday fan. A Trekkie could be considered a type of this form of "geek."
+- Geek vs. Nerd      : I think there is a distinct difference between the word "Geek" and the word "Nerd." A geek, in the past at least, used to refer to someone who was enthusiastic (or in some cases, obsessed) about something. Like a "true fan," as opposed to your average, everyday fan. A Trekkie could be considered a type of this form of "geek."
 
     In recent times, however, the word seems to have gained a new meaning. Most of the time, when people refer to themselves as a "geek," it's a sort of tongue-in-cheek way of saying they may or may not like things that could qualify under the other definition of geek. In other words, to true "geeks" they wouldn't even qualify to use the word, but it has nonetheless been used widely in our culture. Anyone with glasses seems to find the word fitting for themselves, regardless of their interests.
     
