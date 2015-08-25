@@ -157,7 +157,7 @@
 - GitHub             : Hallbomb
 
 ## Curtis Kunkle
-- GitHub             : kavicm
+- GitHub             : Curtkunklegithubber
 - Fish               : Jaws
 - Computer Scientist : Brendan Eich
 - Adventure Time     : -
