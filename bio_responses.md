@@ -1,4 +1,43 @@
 #Bio Responses
+## Patrick Antoniak
+- GitHub             : -
+- Fish               : Filet-o-Fish / Fish Sticks / Anglerfish
+- Computer Scientist : Bill Gates
+- Adventure Time     : Jake https://www.youtube.com/watch?v=FjxAAezqJZQ
+- Geek vs. Nerd      : Everyone who is a Nerd is Geek, but everyone who is a Geek is not a Nerd. Geeks and Nerds are people who are passionate or knowledgeable about a specific thing or hobby. The difference between a Geek and a Nerd is what they are interested in.
+    
+    A Geek is someone who is obsessed with any kind of hobby or intellectual pursuit. They could be interested in anything from cars and motors to mathematics and learning, or anything in between. A Nerd on the other hand is someone obsessed with a more specific range of hobbies or pursuits. Those interest are usually something relating to technology, games, or fictitious media.
+    
+    In the past, a difference between Geeks and Nerds would have been how social their hobby was. A Geek would have been someone who is more social, and would not have been immediately recognizable as a Geek. A Nerd would have been someone who was less social, and would be easily recognized as a Nerd. However, in modern times it is much more "mainstream" for people to be Nerds making this distinction obsolete.
+
+## Joseph Thompson
+- GitHub             : thompsonjos
+- Fish               : Stripped Bass
+- Computer Scientist : Bill Gates
+- Adventure Time     : -
+- Geek vs. Nerd      : The terms "Geek" and "Nerd" can have various meanings to different segments of society. I believe the the the terms are nearly interchangeable, with a few differences.
+
+    I take the term geek to represent a various group of people.  These groups are very knowledgeable about a specific subject. Whether that subject be computers, video games, comics etc.  They would be able to tell you almost anything about the subject they are interested in.  Also they are more able to socialize with each other; hence the develop of "cons", so there they have a place to meet and exchange ideas.
+
+    Nerds on the other hand, are often less socially adaptable.  Then tend to stay to themselves or a small circle of friends.  They tend to have a vast knowledge base that covers many subjects, not focusing on any one topic.  Also they tend to develop a ritual of habits that they tend to stick with like an OCD.
+
+## Zachary Ordo
+- GitHub             : ordizzle
+- Fish               : Filet-o-Fish / Fish Sticks / Anglerfish
+- Computer Scientist : Harold Finch / Ken Hair
+- Adventure Time     : -
+- Geek vs. Nerd      : It is sometimes difficult to discern between "Geek" and "Nerd," as they share similar traits.  Sometimes people use the terms interchangeably, however right or wrong that may be.  Also, they may have varying connotations that can change based on the context in which they were used.  But, it can be argued that there is a difference.
+
+    When I think of a geek, I think of Steve Urkel from the 90's sitcom Family Matters.  He's a young, unkempt, clumsy, socially awkward guy who struggles to fit in.  He can be considered a "goody two-shoes."  He has interests in things that most "normal" people wouldn't have.  He even has the stereotypical fashion traits down to the odd prescription glasses with a strap attached.  But he has traits that can make him likable.  He's incredibly smart, he has good intentions, and he makes others around him learn valuable life lessons.
+    
+    Also, it should be noted that the term geek is most commonly associated with people interested in computers.  For example, "computer geek," or if you're in the market for help with your computer, you can visit the Geek Squad.
+    
+    When I think of a nerd, I think of someone who is also smart, but less socially awkward.  They may also have less common interests, but they are less technical in nature and often more social in nature.  A nerd is more likely to be considered a hipster and is more concerned with their physical appearance or how their interests reflect on them amongst others like them.  For instance, you will more likely find a nerd sitting at Starbucks with their Apple laptop wearing a scarf, non-prescription glasses, and their bicycle locked up outside.  When I think of a nerd, I think of someone like comedian Chris Hardwick, host of the show @midnight.  After all, his Twitter handle is @nerdist.  George Takei also comes to mind.
+    
+    Most importantly though, as with many traits, geek vs. nerd is not cut and dry.  They cannot be held to strict criteria.  Rather, the difference between a geek and a nerd follows a spectrum.  As for me, I probably follow closely along the line separating the two.  Interestingly, the sitcom The Big Bang Theory can probably best illustrate the spectrum.  Howard and Bernadette would probably be more on the nerd side, Sheldon and Amy Farrah Fowler would be more on the geek side, and Penny, Leonard, and Raj would be somewhere in the middle.
+    
+    P.S. Epic Rap Battles created this good music video between a geek and a nerd:  https://www.youtube.com/watch?v=2Tvy_Pbe5NA
+
 ## Marnee Kavic
 - GitHub             : kavicm
 - Fish               : Salmon
