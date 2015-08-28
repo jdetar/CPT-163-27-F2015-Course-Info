@@ -1,16 +1,16 @@
 #### The Value of a Word
 
 You objective is to calculate the ascii value of a word of your choice.
-You have the option of using the String objects charAt() method to find the value of each letter or you may assign each letter to a char variable. Here is some example pseudo-code to give you an idea.
+You have the option of using the String object's charAt() method to find the value of each letter or you may assign each letter to a char variable. Here is some example pseudo-code to give you an idea.
 
 The word is **Beautiful**.
 
-As individual chars variables:
+As individual char variables:
 
     set char1 = 'B'
     set char2 = 'e'
 
-Or with charAt():
+Or with charAt() _You can find more info about this in your book or IDE_:
 
     set beautifulString = "Beautiful"
     set firstChar = beautifulString.charAt(0)
