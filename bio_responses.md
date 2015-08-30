@@ -1,4 +1,38 @@
 #Bio Responses
+## Scott Boettger
+- GitHub             : jdetar
+- Fish               : Marlin
+- Computer Scientist : Steve Wozniak
+- Adventure Time     : Ice King / Gunter
+- Geek vs. Nerd      : The difference between a geek and a nerd is one that has been difficult to discern for decades. Formerly terms that would bring shame and ridicule upon those who bore them, they have now 
+they are worn almost as a badge of honor. The differences between the two may seem minute and obscure, but to those truly looking they may as well be as large as the grand canyon.
+
+    Typically the most obvious difference between a geek and a nerd is physical. While a geek may be seen typically wearing jeans and a t-shirt containing an image or reference to one of their passions, a nerd will more often be seen wearing slacks and a button down shirt as well as possibly a bow tie that is not being worn ironically, but because they think it looks "swell." Also you are less likely to see nerds having social interactions outside of those they know very well, due to a general sense of insecurity caused by poor experiences in high school; whereas geeks can be seen mastering social interactions from working in a record store to tending a bar. But enough about physical and psychological differences, the real difference lies in personality.
+
+    While a nerd may be a master of one thing, such as programming or chess or playing text based adventure games, a geek may have multiple talents, some better than others, but none being remarkably poor. Geeks also tend to have more of a fascination with things such as movies, music, books, TV shows or cars, while nerds tend to have a fascination with the technology and principles these rely upon. To summarize the differences in a very simple explanation using The Big Bang Theory, Leonard is a geek while Sheldon is a nerd.
+
+## Jake Detar
+- GitHub             : jdetar
+- Fish               : Hammerhead Shark
+- Computer Scientist : Tim-Berners Lee
+- Adventure Time     : Jake
+- Geek vs. Nerd      : I firmly believe I am a geek. Not a nerd. I believe that geek are extremely smart about certain subjects, mostly what they enjoy or is popular. Geeks desire to have knowledge in many areas and desire for overall knowledge.
+
+    I also believe that geeks enjoy recreational events more so than nerds. I believe geeks will use they're knowledge for board games, trivia, or video games. Nerds would be more for knowledge for bettering oneself.
+
+    Geeks I think are also more out going about their interests. They will wear or show off what they love in everyday life. Nerds may keep their interests more so to them selves.
+
+## Jacob Oswald
+- GitHub             : Zammy95
+- Fish               : Filet-o-Fish / Fish Sticks / Anglerfish
+- Computer Scientist : Randall Monroe
+- Adventure Time     : Ice King
+- Geek vs. Nerd      : This has been a much debated concept in my house within the past 2 years, as my mother and her boyfriend are both database administrators for UPMC, and are both self proclaimed geeks.Thus, they take great offense when called nerds. To me, a nerd and a geek are less of a class of person, and more of adjective that can be used to describe nerdy or geeky people.
+
+    Being geeky will usually refer to having more obsessive tendencies, trying to be very well versed in their hobbies. They often will spend a lot of time trying to do different things that they love, whether they like to geek over cartoons such as Adventure Time or the Regular Show, or like to spend hours playing games on their computer or game console.
+
+    Being nerdy, on the other hand, seems to me like it can be used to describe someone who is unusually good at hobbies that both geeks and nerds share. Seeing as so many computer related fields are heavily based on math, both sides have plenty of practice with many different fields. However, like most shows and movies show, nerds are usually known for being good at math. I think it’s less about being smart, but being adaptive, and good at picking up things like that quickly.
+
 ## Patrick Antoniak
 - GitHub             : -
 - Fish               : Filet-o-Fish / Fish Sticks / Anglerfish
