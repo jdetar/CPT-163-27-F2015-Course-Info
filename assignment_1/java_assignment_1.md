@@ -17,4 +17,4 @@ Or with charAt() _You can find more info about this in your book or IDE_:
 
 Either one of these options is valid.
 
-Your output will be an integer so you will need to convert each character to its **integer** to its **ascii** equivalent. Please refer to your class notes for help.
+Your output will be an integer so you will need to convert each character to its **integer** or its **ascii** equivalent. Please refer to your class notes for help.
