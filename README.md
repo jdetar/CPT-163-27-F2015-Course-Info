@@ -8,6 +8,8 @@
 
 [Bio Response Raw Data](https://github.com/WCCCEDU/CPT-163-27-F2015-Course-Info/blob/pks/bio_responses_raw_data/bio_responses.md)
 
+[Java Style Guide](https://github.com/WCCCEDU/commons/blob/master/src/java/com/twitter/common/styleguide.md)
+
 ## Schedule
 <table width="845" cellpadding="0" cellspacing="0">
 	<colgroup><col width="272">
