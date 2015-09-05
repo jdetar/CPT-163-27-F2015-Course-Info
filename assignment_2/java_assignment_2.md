@@ -10,7 +10,7 @@ Your menu should have at least 5 options and an option for EXIT or QUIT
 You will submit this as a Pull Request to the repo WCCCEDU/CPT-163-27-F2015-Assignment-2-conditions
 
 ##### Setup for Github
-- [Video](https://github.com/WCCCEDU/CPT-163-27-F2015-Course-Info/blob/master/assignment_2/making_a_pr_from_fork.mp4)
+- [Video](https://github.com/WCCCEDU/CPT-163-27-F2015-Course-Info/blob/master/assignment_2/making_a_pr_from_fork.mp4?raw=true)
 - Fork the repo to your personal account
 - Clone your fork to your local computer
   - From Github Desktop
